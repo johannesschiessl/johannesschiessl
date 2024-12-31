@@ -1,16 +1,37 @@
-### Hi there 👋
+# Hi there, I'm Johannes! 👋
 
-<!--
-**johannesschiessl/johannesschiessl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 16-year-old high school student from Germany who loves to build apps.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Working On
+
+- **Web & Mobile Apps:**
+  - **Student-App:** An app for students to keep track of their homework, exams, and timetable.
+  - **Memorics (coming soon):** An AI-powered flashcard app that helps students get great grades with less effort.
+
+- **Personal Intelligence:**
+  - Building my personal intelligence system with AI agents.
+  - Exploring how AI can accelerate my learning and productivity.
+    
+---
+
+### 🛠️ My Tech Stack
+
+- **Frontend:** Next.js, React, TypeScript
+- **Mobile:** Expo, React Native
+- **Desktop:** Tauri, React, TypeScript
+- **Backend:** FastAPI, Python
+- **Database:** Supabase
+
+---
+
+### 🤝 Let’s Connect!
+
+- **[LinkedIn](https://linkedin.com/in/johannesschiessl)**
+- **[Threads](https://threads.net/@johannesschiessl)**
+- Feel free to reach out to chat about AI, app development, or anything tech-related!
+
+---
+
+Thanks for stopping by!
