@@ -6,11 +6,11 @@ I'm a 16-year-old high school student from Germany who loves to build apps.
 
 ### 🚀 What I'm Working On
 
-- **Web & Mobile Apps:**
+- **Apps:**
   - **Student-App:** An app for students to keep track of their homework, exams, and timetable.
   - **Memorics (coming soon):** An AI-powered flashcard app that helps students get great grades with less effort.
 
-- **Personal Intelligence:**
+- **[Personal Intelligence](https://github.com/johannesschiessl/Personal-Intelligence):**
   - Building my personal intelligence system with AI agents.
   - Exploring how AI can accelerate my learning and productivity.
     
