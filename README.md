@@ -7,7 +7,7 @@ I'm a 16-year-old high school student from Germany who loves to build apps.
 ### 🚀 What I'm Working On
 
 - **Apps:**
-  - **[Student-App](https://student.ignotum.dev)** An app for students to keep track of their homework, exams, and timetable.
+  - **[Student-App](https://student.ignotum.dev):** An app for students to keep track of their homework, exams, and timetable.
   - **Memorics (coming soon):** An AI-powered flashcard app that helps students get great grades with less effort.
 
 - **[Personal Intelligence](https://github.com/johannesschiessl/Personal-Intelligence):**
