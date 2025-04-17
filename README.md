@@ -1,4 +1,4 @@
-Founder of Ignotum & 16 year old student
+Founder of Memorics & 16 year old student
 
 I built (web) apps - mostly with Typescript and Next.js. I like to experiment with AI.
 
